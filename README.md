@@ -2,7 +2,7 @@
 A brief description of what this project does and who it's for
 
 ## UEnquire Site
-[UEnquire] (http://uenquire-chatbot.herokuapp.com/)
+[UEnquire](http://uenquire-chatbot.herokuapp.com/)
 
 ## Deployment
 
