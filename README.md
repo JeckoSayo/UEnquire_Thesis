@@ -1,6 +1,8 @@
 # UEnquire: A Chatbot Inquiry Utilizing Twitter with Naive Bayes
 A brief description of what this project does and who it's for
 
+## UEnquire Site
+[UEnquire] (http://uenquire-chatbot.herokuapp.com/)
 
 ## Deployment
 
@@ -35,4 +37,5 @@ pip install gunicorn
 pip install whitenoise
 pip install openpyxl
 ```
+
 
