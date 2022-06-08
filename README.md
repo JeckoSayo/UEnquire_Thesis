@@ -1,5 +1,5 @@
 # UEnquire: A Chatbot Inquiry Utilizing Twitter with Naive Bayes
-A brief description of what this project does and who it's for
+A web-base application, built to assist the inquiry system of the university of the east. I
 
 ## UEnquire Site
 [UEnquire.com](http://uenquire-chatbot.herokuapp.com/)
